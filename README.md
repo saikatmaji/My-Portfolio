@@ -1,5 +1,5 @@
-# ⚡ Google Homepage Clone
+# ⚡ My Portfolio
 
-A simple **Google Homepage Landing Page Clone** built using **HTML5**, **CSS3** and **Bootstrap**. This project replicates the UI of Google's main search page for learning and practice purposes.
+Welcome to my personal portfolio website – a sleek, responsive, and modern interface built using HTML and CSS. This site showcases who I am, what I do, and what I’ve built!
 
 ---
