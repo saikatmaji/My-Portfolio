@@ -9,3 +9,14 @@ Welcome to my personal portfolio website – a sleek, responsive, and modern int
 🌐 [Visit the Live Site](https://mellow-piroshki-0c3d76.netlify.app/)
 
 ---
+
+## 📌 Features
+
+- 📱 Fully responsive design
+- 🎨 Clean and modern UI
+- 🧑‍💻 About Me section
+- 💼 Experience section
+- 📂 Projects section
+- 🌙 Smooth scrolling & hover effects
+
+---
