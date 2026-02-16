@@ -51,3 +51,9 @@ Saikat Maji
 </p>
 
 ---
+
+## ⭐ Show Your Support!
+
+If you like this project, please give it a ⭐ on GitHub!
+
+---
