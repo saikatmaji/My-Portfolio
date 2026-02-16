@@ -37,3 +37,17 @@ Welcome to my personal portfolio website – a sleek, responsive, and modern int
 - Connect contact form with backend
 
 ---
+
+## 🧑‍💻 Developer
+
+<p>
+Saikat Maji
+<br>
+🌟 Frontend Developer | Tech Explorer | Passionate Builder
+<br>
+🔗
+<a href="https://github.com/saikatmaji">GitHub</a> |
+<a href="https://www.linkedin.com/in/saikatmaji/">LinkedIn</a>
+</p>
+
+---
