@@ -28,3 +28,12 @@ Welcome to my personal portfolio website – a sleek, responsive, and modern int
 - Bootstrap 5 – Responsive grid system & utility classes
 
 ---
+
+## 🎯 Future Improvements
+
+- Add dark mode
+- Add animations
+- Integrate JavaScript for interactivity
+- Connect contact form with backend
+
+---
