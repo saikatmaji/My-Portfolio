@@ -1,0 +1,59 @@
+/* Mobile-first approach */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+:root{
+    --color-accent: #5eead4;
+    --color-highlight: #e2e8f0;
+    --background-accent: rgba(45, 212, 191, .1);
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+
+body{
+    background: #0f1721;
+    color: #94a3b8;
+    padding: 4rem 2rem;
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    gap: 6rem;
+}
+
+
+.underlay{
+    position: fixed;
+    background: #172554;
+    inset: 0;
+    opacity: 0.15;
+}
+
+
+header, main, footer{
+    position: relative;
+    z-index: 10;
+}
+
+
+p{
+    /* font-size: 0.9rem; */
+    line-height: 1.5rem;
+}
+
+
+p::selection, h1::selection, h2::selection, h3::selection, h4::selection, h5::selection, h6::selection{
+    background-color: var(--color-accent);
+    color: #0f172a;
+}
