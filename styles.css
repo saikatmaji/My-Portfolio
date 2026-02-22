@@ -420,4 +420,19 @@ footer .anchor-text{
     text-decoration: none;
 }
 
+
+footer{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+
+footer p{
+    font-size: 0.9rem;
+}
+
+
 /* footer section ends here */
