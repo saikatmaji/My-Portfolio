@@ -435,4 +435,25 @@ footer p{
 }
 
 
+.scroll-to-top{
+    text-decoration: none;
+    color: var(--color-accent);
+    background: var(--background-accent);
+    padding: 0 0.75rem;
+    aspect-ratio: 1/1;
+    display: grid;
+    place-items: center;
+    border-radius: 100%;
+    overflow: hidden;
+    font-size: 1.1rem;
+    transition-duration: 200ms;
+}
+
+
+.scroll-to-top:hover{
+    opacity: 0.8;
+}
+
+
+
 /* footer section ends here */
