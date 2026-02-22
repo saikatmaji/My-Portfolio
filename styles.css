@@ -412,3 +412,12 @@ section h2{
 
 
 /* main section ends here */
+
+
+/* footer section starts here */
+
+footer .anchor-text{
+    text-decoration: none;
+}
+
+/* footer section ends here */
