@@ -487,4 +487,12 @@ footer p{
         max-width: 300px;
     }
 
+    .social-link-container{
+        gap: 1rem;
+    }
+
+    .social-link-container i{
+        font-size: 1.5rem;
+    }
+
 }
