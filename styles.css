@@ -470,4 +470,21 @@ footer p{
     .project-image-container{
         order: 0;
     }
+
+    header{
+        max-width: unset;
+    }
+
+    header h1{
+        font-size: 3rem;
+    }
+
+    header h4{
+        font-size: 1.4rem;
+    }
+
+    header p{
+        max-width: 300px;
+    }
+
 }
