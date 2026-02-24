@@ -518,4 +518,22 @@ footer p{
         padding: 6rem;
         padding-top: 0;
     }
+
+    header{
+        position: sticky;
+        top: 0;
+        height: 100vh;
+        padding-bottom: 6rem;
+    }
+
+    header, main{
+        max-width: 600px;
+        width: 100%;
+        padding-top: 6rem;
+    }
+
+    header{
+        margin-left: auto;
+    }
+
 }
