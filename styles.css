@@ -536,4 +536,20 @@ footer p{
         margin-left: auto;
     }
 
+    main{
+        margin-right: auto;
+    }
+
+    .sticky-header{
+        display: none;
+    }
+
+    footer{
+        grid-column: span 2 / span 2;
+        flex-direction: row;
+        max-width: 1200px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
 }
