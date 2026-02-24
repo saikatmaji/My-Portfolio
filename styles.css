@@ -552,4 +552,25 @@ footer p{
         width: 100%;
     }
 
+    nav{
+        display: flex;
+        flex-direction: column; 
+        gap: 0.5rem;
+        flex: 1;
+        padding: 5rem 0;
+    }
+
+    nav a{
+        font-size: 1rem;
+        color: var(--color-highlight);
+    }
+
+
+    .social-link-container{
+        gap: 1rem;
+    }
+
+    .social-link-container i{
+        font-size: 1.5rem;
+    }
 }
