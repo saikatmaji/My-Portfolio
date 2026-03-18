@@ -372,7 +372,7 @@ section h2{
 }
 
 
-.project-archive-link{
+/* .project-archive-link{
     text-decoration: none;
     color: var(--color-highlight);
     position: relative;
@@ -405,7 +405,7 @@ section h2{
 
 .project-archive-link:hover::after{
     background-color: var(--color-accent);
-}
+} */
 
 
 /* project section(main section) ends here */
@@ -447,6 +447,8 @@ footer p{
     overflow: hidden;
     font-size: 1.1rem;
     transition-duration: 200ms;
+    margin-top: 20px;
+
 }
 
 
