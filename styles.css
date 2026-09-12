@@ -154,3 +154,47 @@ header{
 
 
 /* header section ends here */
+
+
+
+/* main section starts here */
+/* about section(main section) starts here */
+
+/* resume button starts here */
+
+.resume-btn a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    padding: 14px 18px;
+    
+    border: 2px dashed #fff;
+    border-radius: 16px;
+    
+    color: #9ca3af;
+    text-decoration: none;
+    
+    font-size: 18px;
+    font-weight: 600;
+    
+    transition: 0.3s ease;
+}
+
+.resume-btn a i {
+    font-size: 16px;
+    color: #9ca3af;
+    transition: 0.3s ease;
+}
+
+.resume-btn a:hover {
+    color: #fff;
+    border-color: #fff;
+}
+
+.resume-btn a:hover i {
+    color: #fff;
+    transform: translateX(4px);
+}
+
+/* resume button ends here */
