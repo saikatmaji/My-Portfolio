@@ -483,3 +483,123 @@ footer p{
 }
 
 /* footer section ends here */
+
+
+
+/* Responsive */
+@media screen and (min-width: 640px) {
+    .experience-card, .project-card{
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .card-column{
+        grid-column: 2/5;
+    }
+
+    .project-image-container{
+        order: 0;
+    }
+
+    header{
+        max-width: unset;
+    }
+
+    header h1{
+        font-size: 3rem;
+    }
+
+    header h4{
+        font-size: 1.4rem;
+    }
+
+    header p{
+        max-width: 300px;
+    }
+
+    .social-link-container{
+        gap: 1rem;
+    }
+
+    .social-link-container i{
+        font-size: 1.5rem;
+    }
+
+    .mail-and-resume{
+        flex-direction: row;
+        justify-content: space-between;
+        color: var(--color-highlight);
+        font-size: 1.1rem;
+    }
+
+    .technologies  img{
+        width: 45px;
+        height: 45px;
+    }
+}
+
+
+
+
+@media screen and (min-width: 1040px) {
+    body{
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 1rem;
+        padding: 6rem;
+        padding-top: 0;
+    }
+
+    header{
+        position: sticky;
+        top: 0;
+        height: 100vh;
+        padding-bottom: 6rem;
+    }
+
+    header, main{
+        max-width: 600px;
+        width: 100%;
+        padding-top: 6rem;
+    }
+
+    header{
+        margin-left: auto;
+    }
+
+    main{
+        margin-right: auto;
+    }
+
+    .sticky-header{
+        display: none;
+    }
+
+    footer{
+        grid-column: span 2 / span 2;
+        flex-direction: row;
+        max-width: 1200px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    nav{
+        display: flex;
+        flex-direction: column; 
+        gap: 0.5rem;
+        flex: 1;
+        padding: 5rem 0;
+    }
+
+    nav a{
+        font-size: 1rem;
+        color: var(--color-highlight);
+    }
+
+
+    .social-link-container{
+        gap: 1rem;
+    }
+
+    .social-link-container i{
+        font-size: 1.5rem;
+    }
+}
