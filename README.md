@@ -45,6 +45,9 @@ Full Stack Developer | Tech Explorer | Passionate Builder
 
 ## ⭐ Show Your Support!
 
-If you like this project, please give it a ⭐ on GitHub!
+- Star this repository
+- Fork the repository
+- Contribute to the project
+- Share on social media
 
 ---
