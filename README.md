@@ -29,15 +29,6 @@ Welcome to my personal portfolio website – a sleek, responsive, and modern int
 
 ---
 
-## 🎯 Future Improvements
-
-- Add dark mode
-- Add animations
-- Integrate JavaScript for interactivity
-- Connect contact form with backend
-
----
-
 ## 🧑‍💻 Developer
 
 <p>
