@@ -25,7 +25,7 @@ A sleek, responsive, and modern personal portfolio website built using HTML, CSS
 ## 🛠️ Tech Stack
 
 - HTML5 – Used for structuring the website content and layout.
-- CSS3 – Customized styling and UI enhancements
+- CSS3 – Used for custom styling and UI enhancements.
 - Bootstrap 5 – Responsive grid system & utility classes
 
 ---
