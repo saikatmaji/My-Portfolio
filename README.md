@@ -15,6 +15,7 @@ Welcome to my personal portfolio website - a sleek, responsive, and modern inter
 - 📱 Fully responsive design
 - 🎨 Clean and modern UI
 - 🧑‍💻 About Me section
+- 🛠️ Skills section
 - 💼 Experience section
 - 📂 Projects section
 - 🌙 Smooth scrolling & hover effects
