@@ -1,6 +1,6 @@
 # ⚡ My Portfolio
 
-Welcome to my personal portfolio website - a sleek, responsive, and modern interface built using HTML, CSS, and Bootstrap. This portfolio showcases my skills, experience, projects, and web development journey.
+A sleek, responsive, and modern personal portfolio website built using HTML, CSS, and Bootstrap. This portfolio showcases my skills, experience, projects, and web development journey.
 
 ---
 
