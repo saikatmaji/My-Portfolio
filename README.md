@@ -1,4 +1,4 @@
-# ⚡ My Portfolio
+# ⚡ Portfolio
 
 A sleek, responsive, and modern personal portfolio website built using HTML, CSS, and Bootstrap. This portfolio showcases my skills, experience, projects, and web development journey through a clean and user-friendly interface.
 
