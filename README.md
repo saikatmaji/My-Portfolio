@@ -15,7 +15,7 @@ A sleek, responsive, and modern personal portfolio website built using HTML, CSS
 - 📱 Fully responsive design
 - 🎨 Clean and modern UI
 - 🧑‍💻 About Me section
-- 🛠️ Skills section
+- 🛠️ Technical Skills section
 - 💼 Experience section
 - 📂 Projects showcase
 - 🌙 Smooth scrolling & hover effects
